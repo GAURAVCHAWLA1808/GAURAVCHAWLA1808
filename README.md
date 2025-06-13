@@ -5,4 +5,3 @@
 🤝 Actively contributing to open-source projects and always open to meaningful collaborations in web development, machine learning, and developer tooling.
 🛠️ Tech I work with: React, Next.js, Node.js, TypeScript, WebSockets, Redis, PostgreSQL, Python, C++, TensorFlow.
 📫 Reach me at: chawlagaurav1805@gmail.com
-🌐 Portfolio & Links: LinkedIn
